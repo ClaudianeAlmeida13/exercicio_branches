@@ -1,3 +1,4 @@
-public class testeMaster {
+public class testeMaster { 
+    private String nome
     
 }
